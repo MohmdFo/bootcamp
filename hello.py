@@ -1,3 +1,4 @@
 print("hello world")
 fullname = "mohammad fotouhi"
-masoud_dragon='it will eat roohi'
+age = 21
+dragon="i will eat you"
